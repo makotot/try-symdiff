@@ -9,6 +9,8 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-symdiff": "0.0.1",
     "gulp": "^3.8.11",
     "gulp-symdiff": "0.0.2",
     "symdiff-css": "0.0.3",
